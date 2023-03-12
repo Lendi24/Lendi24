@@ -1,7 +1,7 @@
 ## About me ##
 
 **Hello 👋**
-Welcome to my portfolio! <br>
+Welcome to my GitHub-page! <br>
 My name is Fabian Lendic, and I am a Junior Software-Developer from Sweden. <br>
 I mostly do fullstack-webdev these days, but have also done some game-development. <br>
 Feel free to visit my [portfolio](https://cv.lendic.xyz) to explore the public projects I've worked on!<br>
